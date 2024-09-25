@@ -1,0 +1,15 @@
+.header-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between; /* Space between the sections */
+  height: 100vh; /* Full height */
+  padding: 20px;
+  background-color: #005d5d; /* Background color to match the footer */
+}
+
+.App {
+  text-align: center;
+  width: 100%; /* Make the app take the full width */
+  height: 100%;
+}
